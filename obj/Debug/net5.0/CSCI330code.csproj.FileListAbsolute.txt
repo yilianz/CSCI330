@@ -1,0 +1,16 @@
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\bin\Debug\net5.0\CSCI330code.exe
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\bin\Debug\net5.0\CSCI330code.deps.json
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\bin\Debug\net5.0\CSCI330code.runtimeconfig.json
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\bin\Debug\net5.0\CSCI330code.runtimeconfig.dev.json
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\bin\Debug\net5.0\CSCI330code.dll
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\bin\Debug\net5.0\ref\CSCI330code.dll
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\bin\Debug\net5.0\CSCI330code.pdb
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\obj\Debug\net5.0\CSCI330code.csprojAssemblyReference.cache
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\obj\Debug\net5.0\CSCI330code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\obj\Debug\net5.0\CSCI330code.AssemblyInfoInputs.cache
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\obj\Debug\net5.0\CSCI330code.AssemblyInfo.cs
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\obj\Debug\net5.0\CSCI330code.csproj.CoreCompileInputs.cache
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\obj\Debug\net5.0\CSCI330code.dll
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\obj\Debug\net5.0\ref\CSCI330code.dll
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\obj\Debug\net5.0\CSCI330code.pdb
+C:\Users\yilianz\Documents\CSCI330\CSCI330code\obj\Debug\net5.0\CSCI330code.genruntimeconfig.cache
