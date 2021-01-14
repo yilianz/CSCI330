@@ -3,9 +3,8 @@
 Collection of hello world file in different languages
 
 * HTML
-* js
+* javascript
 * python 
 * java
 * c#
 * c++
-* php

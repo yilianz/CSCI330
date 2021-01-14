@@ -4,6 +4,12 @@ import java.util.Scanner;
 public class test
 {
     public static void main (String[] args) throws Exception {
+        double a,b;
+        a = 8/2/2; //2.0/4.0;//(2.0/4.0)/8.0;
+        b = 3 - a++;
+        System.out.println("a = "+a);
+        System.out.println("b = "+b);
+        /*
         Scanner in = new Scanner(System.in);
         System.out.println("Hello world from Java! What is your name?");
 
@@ -14,6 +20,7 @@ public class test
         }catch(RuntimeException e){
             System.out.println(e.getMessage());
         }
+        */
     }
 
 }
