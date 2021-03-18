@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch generictest1",
+            "request": "launch",
+            "mainClass": "generictest1",
+            "projectName": "CSCI330code_a6e2474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "CSCI330code_a6e2474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch generictest",
+            "request": "launch",
+            "mainClass": "generictest",
+            "projectName": "CSCI330code_a6e2474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "CSCI330code_21749418"
+        },
+        {
+            "type": "java",
+            "name": "Launch exceptiontest2",
+            "request": "launch",
+            "mainClass": "exceptiontest2",
+            "projectName": "CSCI330code_21749418"
+        },
+        {
+            "type": "java",
+            "name": "Launch exceptiontest",
+            "request": "launch",
+            "mainClass": "exceptiontest",
+            "projectName": "CSCI330code_21749418"
+        },
+        {
+            "type": "java",
+            "name": "Launch exceptiontest2",
+            "request": "launch",
+            "mainClass": "exceptiontest2",
+            "projectName": "CSCI330code_98d552ad"
+        },
+        {
+            "type": "java",
+            "name": "Launch exceptiontest",
+            "request": "launch",
+            "mainClass": "exceptiontest",
+            "projectName": "CSCI330code_98d552ad"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserInputdemo",
+            "request": "launch",
+            "mainClass": "UserInputdemo",
+            "projectName": "CSCI330code_98d552ad"
+        },
+        {
+            "type": "java",
             "name": "Launch test",
             "request": "launch",
             "mainClass": "test",

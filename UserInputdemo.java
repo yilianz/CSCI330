@@ -23,7 +23,7 @@ public class UserInputdemo {
       System.out.println("User information entered. Name: " + name + ". Age: " + age + ".");
     } catch (InputMismatchException e) {
       System.out.println("Your input does not match the expected data! Re-enter, please.");
-      //throw new RuntimeException("data error!");    // what happens?
+      throw new RuntimeException("data error!");    // what happens?
       // System.out.println(e.getMessage());
     } catch (RuntimeException e) {
       System.out.println("Something went wrong:" + e.getMessage());

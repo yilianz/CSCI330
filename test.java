@@ -10,6 +10,16 @@ public class test
         //b = 3 - a++;
         System.out.println("a = "+a);
         System.out.println("b = "+b);
+
+        int k = 2;
+        switch (k) {
+            case 1:			System.out.print("one ");
+            case 2:			System.out.print("too ");
+            case 3:			System.out.println("many");
+          default:         System.out.println("none");
+    
+            }
+    
         /*
         Scanner in = new Scanner(System.in);
         System.out.println("Hello world from Java! What is your name?");
