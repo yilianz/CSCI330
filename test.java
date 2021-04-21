@@ -19,7 +19,9 @@ public class test
           default:         System.out.println("none");
     
             }
-    
+
+        String s="To be, or not to be. My two cents. Twwwoooo!!";
+        System.out.println(s.replaceAll("[tT]w+o","2"));
         /*
         Scanner in = new Scanner(System.in);
         System.out.println("Hello world from Java! What is your name?");

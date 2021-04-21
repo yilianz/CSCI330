@@ -54,5 +54,7 @@ class  StackClass
       end
     end
     
-    myStack.sayhi
+    myStack.sayhi  # well defined
     puts "Top element is (should be 42): #{myStack.top}"
+
+    

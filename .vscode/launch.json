@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch EmailClient",
+            "request": "launch",
+            "mainClass": "EmailClient",
+            "projectName": "CSCI330code_a6e2474d"
+        },
+        {
+            "type": "java",
             "name": "Launch generictest1",
             "request": "launch",
             "mainClass": "generictest1",

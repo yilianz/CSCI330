@@ -2,7 +2,7 @@
 static int sa = 10;
 void fun(){
     int a =10;
-  
+    int *p = &x;
     sa = 10;
     a += 5; 
     sa += 5; 
@@ -15,6 +15,8 @@ void check(int a, int *b){
 
 int main(){
 
+    
+ 
     for (size_t i = 0; i < 20; i++)
     {
         fun();
@@ -22,8 +24,10 @@ int main(){
     
     int a = 4; 
     int b = 0; 
+    int *p = &x;
+
     check(a,&b);
-    printf("a = %d , b = %d" , a, b);
+    printf("a = %d , b = %d, p=%d" , a, b,p);
 
 
     /*
